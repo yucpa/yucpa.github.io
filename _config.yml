@@ -1,0 +1,65 @@
+# Site settings
+title:  Linda Yu CPA P.C. Inc.
+description: "Accounting Tax Adversitry"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the name of your domain
+logo_url: cpa.png
+
+# Hero
+hero:
+    hero_img: hero.png
+    hero_title: Linda Yu CPA P.C. Inc.
+    hero_description: A company knows it.
+
+# Contact form
+api_token: a8e5f029ed028bff623f2b93fbd461b7
+
+# Contact info
+contact:
+    phone: +1(888).969.1353
+    emergency: +1(888).969.1353
+    email: info@yucpa.ca
+    address: 610A 350 3rd Ave, <br> Saskatoon, SK - Canada
+
+# Opening hours
+monday_friday: 9:00 – 18:00
+saturday:
+sunday:
+
+# Testimonials
+# testimonials:
+#    testimonials_img: parallax.jpg
+
+# Map
+map:
+    zoom: 17
+    address: 350 3rd Ave, Saskatoon, Canada
+    address_details: svg/min/logo.svg
+
+# Social settings
+facebook:
+twitter:
+instagram:
+youtube:
+skype:
+feed:
+
+# Footer
+copyright: © 2017 Linda Yu CPA P.C. Inc. - All Rights Reserved
+
+# Build settings
+markdown: kramdown
+
+exclude: [
+    package.json,
+    Gruntfile.js,
+    node_modules,
+    .sass-cache,
+    Gemfile,
+    Gemfile.lock,
+    .gitignore
+]
+
+# Theme Settings
+analytics:
+google_verification:
