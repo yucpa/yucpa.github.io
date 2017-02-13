@@ -45,7 +45,7 @@ skype:
 feed:
 
 # Footer
-copyright: © 2017 Linda Yu CPA P.C. Inc. - All Rights Reserved
+copyright: Copyright © 2017 Linda Yu CPA P.C. Inc. All Rights Reserved.
 
 # Build settings
 markdown: kramdown
