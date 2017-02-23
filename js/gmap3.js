@@ -121,7 +121,7 @@
         };
         script = document.createElement('script');
         script.type = 'text/javascript';
-        script.src = 'https://maps.googleapis.com/maps/api/js?callback=' + cbName + (loadOptions ? '&' + (typeof loadOptions === 'string' ? loadOptions : serialize(loadOptions)) : '');
+        script.src = 'https://maps.googleapis.com/maps/api/js?key=AIzaSyA-lF29VPJpoVputAEoiTAVxVzwkakiUoI&callback=' + cbName + (loadOptions ? '&' + (typeof loadOptions === 'string' ? loadOptions : serialize(loadOptions)) : '');
         $("head").append(script);
       }
     });
