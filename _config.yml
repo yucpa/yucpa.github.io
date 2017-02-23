@@ -2,7 +2,7 @@
 title:  Linda Yu CPA P.C. Inc.
 description: "Accounting Tax Adversitry"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "www.yucpa.ca" # the name of your domain
+url: "" # the name of your domain
 logo_url: cpa.png
 
 # Hero
