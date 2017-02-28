@@ -6,14 +6,15 @@
     <![endif]-->
 
     {% include header.html %}
+    
+       {% if site.analytics %}
+        {% include analytics.html %}
+    {% endif %}
  
         {{ content }}
            
     {% include footer.html %}
     
-    {% if site.analytics %}
-        {% include analytics.html %}
-    {% endif %}
 
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
     <script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyA-lF29VPJpoVputAEoiTAVxVzwkakiUoI"></script>
