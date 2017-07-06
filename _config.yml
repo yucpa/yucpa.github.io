@@ -1,6 +1,6 @@
 # Site settings
 title:  Linda Yu CPA P.C. Inc.
-description: "Accounting Tax Adversitry"
+description: "Accounting Tax Advisory"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "www.yucpa.ca" # the name of your domain
 logo_url: cpa.png
