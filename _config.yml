@@ -34,7 +34,7 @@ sunday:
 map:
     zoom: 17
     address: 350 3 Ave N, Saskatoon, Canada
-    address_details: svg/min/logo.svg
+    address_details: svg/min/logo.png
 
 # Social settings
 facebook:
