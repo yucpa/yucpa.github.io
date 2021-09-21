@@ -19,10 +19,10 @@ contact:
     phone: +1(888).969.1353
     emergency: +1(888).969.1353
     email: info@yucpa.ca
-    address: 610A 350 3rd Ave N, <br> Saskatoon, SK - Canada
+    address: 1102 8th Street E, <br> Saskatoon, SK - Canada
 
 # Opening hours
-monday_friday: 9:00 – 18:00
+monday_friday: 9:00 – 17:00
 saturday:
 sunday:
 
@@ -33,7 +33,7 @@ sunday:
 # Map
 map:
     zoom: 17
-    address: 350 3 Ave N, Saskatoon, Canada
+    address: 1102 8th Street E, Saskatoon, Canada
     address_details: svg/min/logo.png
 
 # Social settings
